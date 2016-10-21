@@ -1,10 +1,10 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.diddykao.solitairestory.MainActivity">
+    tools:context="com.example.diddykao.solitairestory.ScrollingActivity">
     <item
-        android:id="@+id/Activity_signin"
+        android:id="@+id/strActivity_signup"
         android:orderInCategory="100"
-        android:title="@string/strActivity_signin"
+        android:title="@string/strActivity_signup"
         app:showAsAction="never" />
 </menu>
